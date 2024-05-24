@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Quote.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Favourite Quote";
 
 /**
  * Project list
@@ -31,35 +31,35 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "World Champion @ NASA Space Apps Challenge 2023 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Best Storytelling Category | Team Leader | Team Voyagers",
+    url: "https://www.linkedin.com/posts/mdkhalidsakib_teamvoyagers-nasachallenge-worldchampions-activity-7155598275939631104-rzEH?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Champion @ Hult Prize",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Champion @ Hult Prize On-Campus 2023 & Selected for New York Summit as a Semi-Finalist | Team Leader | Team Salvage.",
+    url: "https://www.linkedin.com/in/mdkhalidsakib",
   },
   {
-    title: "My Resume Site",
+    title: "2nd Position @ Hackathon BUET CSE Fest 2022",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Category: Web3 & Blockchain Team Leader | Team Decentralized Brains.",
+    url: "www.youtube.com/@MdKhalidSakib",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Best Event Ambassador @ CYB",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "CYB - Consumer Youth Bangladesh 2022 | Rajshahi Division.",
+    url: "www.youtube.com/@MdKhalidSakib",
   },
 ];
 
 const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">
-      <h2 style={{ textAlign: "center" }}>Portfolio</h2>
+      <h2 style={{ textAlign: "center" }}>Achievements</h2>
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img

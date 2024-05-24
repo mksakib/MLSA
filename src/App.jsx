@@ -6,7 +6,7 @@
 
 import React from "react";
 
-import About from "./Components/About";
+import About from "./Components/About"; 
 import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
@@ -24,15 +24,15 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  name: "Md Khalid Sakib",
+  title: "World Champion @NASA SAC'23 | Lecturer | Alpha Ambassador @Microsoft | ALP'24 | SQA | Blockchain | Enthusiast | Investigative | Growth Hacker | Critic | Human",
+  email: "mdkhalid.sakib@studentambassadors.com",
+  gitHub: "mksakib",
+  instagram: "mdkhalidsakib",
+  linkedIn: "mdkhalidsakib",
+  medium: "mdkhalidsakib",
+  twitter: "mdkhalidsakib",
+  youTube: "mdkhalidsakib",
 };
 
 const primaryColor = "#4E567E";
