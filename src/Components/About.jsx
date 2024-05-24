@@ -36,7 +36,7 @@ const skillsList = [
   "Research",
   "Communication",
   "Teamwork",
-  "Accountable",
+  "Accountable", 
 ];
 
 /**
